@@ -18,28 +18,29 @@
 
 ---
 
-## About Me:
+## About Me 🧑‍💻
 
 ```javascript
 const rahedeen = {
-  Name:       "Rahedeen Siddiqui",
-  Location:   "Karachi, Pakistan 🇵🇰",
-  Role:       ["Frontend Developer"],
-  Training:   "SMIT — Modern Web & Application (WMA), Batch 18",
-   Focused:      ["Responsive UI", "Clean Code", "User-Centered Design"],
-  Shipped:    "20+ Projects  |  80+ Assignments  |  10+ Live Websites",
-  Goal:       "Full Stack Developer 🚀",
-  Contact:    "rahedeensiddiqui@gmail.com",
+  name:       "Rahedeen Siddiqui",
+  location:   "Karachi, Pakistan 🇵🇰",
+  role:       ["Frontend Developer", "Graphic Designer"],
+  training:   "SMIT — Modern Web & Application (WMA), Batch 18",
+  focus:      ["Responsive UI", "Clean Code", "User-Centered Design"],
+  shipped:    "20+ Projects  |  80+ Assignments  |  10+ Live Websites",
+  goal:       "Full Stack Developer 🚀",
+  available:  true, // Open to internships & collaborations!
+  contact:    "sheikhrahedeen@gmail.com",
 };
 ```
 
-> *"Enthusiastic frontend development is where **logic meets creativity** — and that's exactly the space I thrive in."*
+> *"Great frontend development is where **logic meets creativity** — and that's exactly the space I thrive in."*
 
 <br/>
 
 ---
 
-## Tech Stack & Skills:
+## Tech Stack & Skills 🛠️
 
 <div align="center">
 
@@ -69,7 +70,7 @@ const rahedeen = {
 
 ---
 
-## GitHub Stats 📊:
+## GitHub Stats 📊
 
 <div align="center">
 
@@ -87,7 +88,7 @@ const rahedeen = {
 
 ---
 
-## GitHub Trophies: 🏆
+## Achievements & Trophies 🏆
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahedeen-siddiqui105&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
@@ -97,7 +98,17 @@ const rahedeen = {
 
 ---
 
-## Featured Projects 🚀:
+## Activity Graph 📈
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahedeen-siddiqui105&bg_color=0d1117&color=c8ff00&line=c8ff00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+---
+
+## Featured Projects 🚀
 
 <div align="center">
 
@@ -181,82 +192,67 @@ const rahedeen = {
 
 </div>
 
-<br/>
-
 <div align="center">
   <sub>💬 These are just 3 of my <b>20+ projects</b> — I have 10+ more live websites & 80+ assignments. Feel free to reach out to see more!</sub>
-</div>
-
-<br>
-
-## Activity Graph 📈:
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahedeen-siddiqui105&bg_color=0d1117&color=c8ff00&line=c8ff00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
 
 ---
 
-
-
 ## Education & Training 🎓
 
 ```
-
 🏛️  Saylani Mass IT Training (SMIT) — Paposh Campus, Karachi
     └── Modern Web & Application (WMA) — Batch 18
         September 2024 – Present
-        ├──  Frontend Developer (Student)
+        ├── 🧑‍💻  Frontend Developer (Student)
+        └── 🗂️  Frontend Manager at SMIT Campus
 
 📚  DIL Amina Public Higher Secondary School
     └── Intermediate (ICS) — Computer Science
         August 2025 – June 2027
 
 📚  DIL Amina Public Secondary School
-    └── Matriculation (BSEK) - Science Group
+    └── Matriculation (BSEK) — Science Group
         May 2023 – May 2025
-
----
+```
 
 <br/>
 
+---
 
-```
-## Achievements and Certifications: 🎓
+## Achievements & Certifications 🥇
 
-My remarkable achievements in my overall educational journey is:
+<div align="left">
 
-<ol type = "I">
-    <li>Secured 91.64% in SSC-II from the Board of Secondary Education Karachi (2025).</li>
-    
-    <li>Received the Higher Achiever Award across Karachi from Bihar Welfare Foundation for outstanding academic performance.</li>
-    
-    <li>Awarded a shield by DIL School in recognition of securing 91.64% and achieving top marks across the entire project.</li>
-    
-    <li>Received a Certificate of Completion from Cisco Networking Academy for successfully completing the "AI & ML Course".</li>
-    
-    <li>Received an Appreciation Award from PEN (Power Education Network) for achieving an A+ grade in Matriculation.</li>
-    
-    <li>Achieved 2nd Position Award from TPA (The Professional Academy) by securing 90+ marks in every subject in Preliminary Examinations.</li>
-    
-    <li>Won 2nd Position Award from DIL in the "Bilingual Speech Competition", demonstrating strong debate and public speaking skills.</li>
-    
-    <li>Presented my first real-business website, "Baking Nest," at Saylani Mass IT Training (Paposh Campus), where I showcased my development journey and project efforts.</li>
-    
-    <li>Delivered a presentation on HTML Tags at SMIT, sharing foundational web development knowledge.</li>
-    
-    <li>Received a Full Attendance Certificate from DIL Secondary School Paradise Campus J9 in 2020.</li>
+**I.** &nbsp; Secured **91.64%** in SSC-II from the Board of Secondary Education Karachi (2025).
 
-</ol>
+**II.** &nbsp; Received the **Higher Achiever Award across Karachi** from Bihar Welfare Foundation for outstanding academic performance.
+
+**III.** &nbsp; Awarded a **shield by DIL School** in recognition of securing 91.64% and achieving top marks across the entire school.
+
+**IV.** &nbsp; Received a **Certificate of Completion from Cisco Networking Academy** for successfully completing the *"AI & ML Course"*.
+
+**V.** &nbsp; Received an **Appreciation Award from PEN** (Power Education Network) for achieving an A+ grade in Matriculation.
+
+**VI.** &nbsp; Achieved **2nd Position Award from TPA** (The Professional Academy) by securing 90+ marks in every subject in Preliminary Examinations.
+
+**VII.** &nbsp; Won **2nd Position in Bilingual Speech Competition** at DIL, demonstrating strong debate and public speaking skills.
+
+**VIII.** &nbsp; Presented **"Baking Nest"** — my first real-business website — at Saylani Mass IT Training (Paposh Campus), showcasing my full development journey.
+
+**IX.** &nbsp; Delivered a **presentation on HTML Tags** at SMIT, sharing foundational web development knowledge with peers.
+
+**X.** &nbsp; Received a **Full Attendance Certificate** from DIL Secondary School Paradise Campus J9 in 2020.
+
+</div>
 
 <br/>
 
 ---
 
 ## Let's Connect 🤝
-## Feel Free to mail, message or contact me on LinkdIn.
 
 <div align="center">
 
