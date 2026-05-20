@@ -76,6 +76,9 @@ const rahedeen = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahedeen-siddiqui105&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8ff00&icon_color=c8ff00&text_color=ffffff" alt="Rahedeen's GitHub Stats"/>
 &nbsp;&nbsp;
+
+<br/><br/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahedeen-siddiqui105&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=c8ff00&text_color=ffffff" alt="Top Languages"/>
 
 <br/><br/>
