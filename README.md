@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0f3460&height=220&section=header&text=Rahedeen%20Siddiqui&fontSize=52&fontColor=c8ff00&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Graphic%20Designer%20%7C%20SMIT-18&descColor=ffffff&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0005,50:3d0018,100:6b0f2a&height=220&section=header&text=Rahedeen%20Siddiqui&fontSize=52&fontColor=ff4d6d&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Graphic%20Designer%20%7C%20SMIT-18&descColor=ffb3c1&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8FF00&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Rahedeen+%F0%9F%91%8B;Frontend+Developer+from+Karachi%2C+PK+%F0%9F%87%B5%F0%9F%87%B0;Building+clean+%26+responsive+web+apps+%E2%9C%A8;Logic+meets+Creativity+%F0%9F%92%A1;SMIT-18+%7C+WMA+Program+%7C+20%2B+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D6D&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Rahedeen+%F0%9F%91%8B;Frontend+Developer+from+Karachi%2C+PK+%F0%9F%87%B5%F0%9F%87%B0;Building+clean+%26+responsive+web+apps+%E2%9C%A8;Logic+meets+Creativity+%F0%9F%92%A1;SMIT-18+%7C+WMA+Program+%7C+20%2B+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rahedeen-siddiqui105&label=Profile+Views&color=c8ff00&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=rahedeen-siddiqui105&label=Profile+Views&color=ff4d6d&style=flat-square" alt="profile views" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/rahedeen-siddiqui105?label=Followers&style=social" alt="followers"/>
 
@@ -21,16 +21,16 @@
 ## About Me 🧑‍💻
 
 ```javascript
-const rahedeen = {
-  name:       "Rahedeen Siddiqui",
-  location:   "Karachi, Pakistan 🇵🇰",
-  role:       ["Frontend Developer", "Graphic Designer"],
-  training:   "SMIT — Modern Web & Application (WMA), Batch 18",
-  focus:      ["Responsive UI", "Clean Code", "User-Centered Design"],
-  shipped:    "20+ Projects  |  80+ Assignments  |  10+ Live Websites",
-  goal:       "Full Stack Developer 🚀",
-  available:  true, // Open to internships & collaborations!
-  contact:    "sheikhrahedeen@gmail.com",
+ {
+  Name:       "Rahedeen Siddiqui",
+  Location:   "Karachi, Pakistan 🇵🇰",
+  Role:       ["Frontend Developer", "Graphic Designer"],
+  Training:   "SMIT — Modern Web & Application (WMA), Batch 18",
+  Focus:      ["Responsive UI", "Clean Code", "User-Centered Design"],
+  Shipped:    "20+ Projects  |  80+ Assignments  |  10+ Live Websites",
+  Goal:       "Full Stack Developer 🚀",
+  Available:  true, // Open to internships & collaborations!
+  Contact:    "rahedeensiddiqui@gmail.com",
 };
 ```
 
@@ -50,7 +50,7 @@ const rahedeen = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-6b0f2a?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 **Design Tools**
 
@@ -74,16 +74,13 @@ const rahedeen = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahedeen-siddiqui105&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8ff00&icon_color=c8ff00&text_color=ffffff" alt="Rahedeen's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahedeen-siddiqui105&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0010&title_color=ff4d6d&icon_color=ff4d6d&text_color=ffb3c1" alt="Rahedeen's GitHub Stats"/>
 &nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahedeen-siddiqui105&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d0010&title_color=ff4d6d&text_color=ffb3c1" alt="Top Languages"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahedeen-siddiqui105&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=c8ff00&text_color=ffffff" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahedeen-siddiqui105&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=c8ff00&ring=c8ff00&fire=ff6b35&currStreakLabel=c8ff00" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahedeen-siddiqui105&theme=radical&hide_border=true&background=0d0010&stroke=ff4d6d&ring=ff4d6d&fire=c9184a&currStreakLabel=ff4d6d" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,7 +91,7 @@ const rahedeen = {
 ## Achievements & Trophies 🏆
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahedeen-siddiqui105&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahedeen-siddiqui105&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -104,7 +101,7 @@ const rahedeen = {
 ## Activity Graph 📈
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahedeen-siddiqui105&bg_color=0d1117&color=c8ff00&line=c8ff00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahedeen-siddiqui105&bg_color=0d0010&color=ff4d6d&line=ff4d6d&point=ffb3c1&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -122,7 +119,7 @@ const rahedeen = {
 <td width="33%" valign="top" align="center">
 <br/>
 <a href="https://rainbow-longma-a12bfb.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🎂_BAKING_NEST-VISIT_LIVE_SITE_→-c8ff00?style=for-the-badge&labelColor=0d1117" alt="Baking Nest"/>
+  <img src="https://img.shields.io/badge/🎂_BAKING_NEST-VISIT_LIVE_SITE_→-ff4d6d?style=for-the-badge&labelColor=1a0005" alt="Baking Nest"/>
 </a>
 <br/><br/>
 
@@ -146,7 +143,7 @@ const rahedeen = {
 <td width="33%" valign="top" align="center">
 <br/>
 <a href="https://unrivaled-concha-e9b13a.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/💼_NEXCENT-VISIT_LIVE_SITE_→-c8ff00?style=for-the-badge&labelColor=0d1117" alt="Nexcent"/>
+  <img src="https://img.shields.io/badge/💼_NEXCENT-VISIT_LIVE_SITE_→-ff4d6d?style=for-the-badge&labelColor=1a0005" alt="Nexcent"/>
 </a>
 <br/><br/>
 
@@ -170,7 +167,7 @@ const rahedeen = {
 <td width="33%" valign="top" align="center">
 <br/>
 <a href="https://euphonious-beignet-7331cc.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌿_PARALLAX-VISIT_LIVE_SITE_→-c8ff00?style=for-the-badge&labelColor=0d1117" alt="Parallax Website"/>
+  <img src="https://img.shields.io/badge/🌿_PARALLAX-VISIT_LIVE_SITE_→-ff4d6d?style=for-the-badge&labelColor=1a0005" alt="Parallax Website"/>
 </a>
 <br/><br/>
 
@@ -209,8 +206,8 @@ const rahedeen = {
 🏛️  Saylani Mass IT Training (SMIT) — Paposh Campus, Karachi
     └── Modern Web & Application (WMA) — Batch 18
         September 2024 – Present
-        ├── 🧑‍💻  Frontend Developer (Student)
-        └── 🗂️  Frontend Manager at SMIT Campus
+        ├── Frontend Developer (Student)
+        
 
 📚  DIL Amina Public Higher Secondary School
     └── Intermediate (ICS) — Computer Science
@@ -278,7 +275,7 @@ const rahedeen = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0f0f0f&height=130&section=footer&text=Thanks+for+visiting!&fontSize=22&fontColor=c8ff00&fontAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b0f2a,50:3d0018,100:1a0005&height=130&section=footer&text=Thanks+for+visiting!&fontSize=22&fontColor=ff4d6d&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 <sub>⭐ If you like my work, drop a star on a repo — it genuinely means the world! 🙌</sub>
 
