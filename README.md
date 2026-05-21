@@ -20,17 +20,17 @@
 
 ## About Me 🧑‍💻
 
-```
-{
-  Name:       "Rahedeen Siddiqui",
-  Location:   "Karachi, Pakistan 🇵🇰",
-  Role:       ["Frontend Developer"],
-  Training:   "SMIT — Modern Web & Application (WMA), Batch 18",
-  Focus:      ["Responsive UI", "Clean Code", "User-Centered Design"],
-  Shipped:    "20+ Projects  |  80+ Assignments  |  10+ Live Websites",
-  Goal:       "Full Stack Developer 🚀",
-  Available:  24/7 mail & messages.
-  Contact:    "rahedeensiddiqui@gmail.com",
+```javascript
+const rahedeen = {
+  name:       "Rahedeen Siddiqui",
+  location:   "Karachi, Pakistan 🇵🇰",
+  role:       ["Frontend Developer", "Graphic Designer"],
+  training:   "SMIT — Modern Web & Application (WMA), Batch 18",
+  focus:      ["Responsive UI", "Clean Code", "User-Centered Design"],
+  shipped:    "20+ Projects  |  80+ Assignments  |  10+ Live Websites",
+  goal:       "Full Stack Developer 🚀",
+  available:  true, // Open to internships & collaborations!
+  contact:    "sheikhrahedeen@gmail.com",
 };
 ```
 
@@ -74,13 +74,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahedeen-siddiqui105&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Rahedeen's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahedeen-siddiqui105&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Rahedeen's GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahedeen-siddiqui105&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahedeen-siddiqui105&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=rahedeen-siddiqui105&theme=radical&hide_border=true&ring=c9184a&fire=ff4d6d&currStreakLabel=ff4d6d" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=rahedeen-siddiqui105&theme=radical&hide_border=true&ring=c9184a&fire=ff4d6d&currStreakLabel=ff4d6d" alt="GitHub Streak"/>
 
 </div>
 
