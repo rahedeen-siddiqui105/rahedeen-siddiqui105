@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0005,50:3d0018,100:6b0f2a&height=220&section=header&text=Rahedeen%20Siddiqui&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Graphic%20Designer%20%7C%20SMIT-18&descColor=ffb3c1&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9184A&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Rahedeen+%F0%9F%91%8B;Frontend+Developer+from+Karachi%2C+PK+%F0%9F%87%B5%F0%9F%87%B0;Building+clean+%26+responsive+web+apps+%E2%9C%A8;Logic+meets+Creativity+%F0%9F%92%A1;SMIT-18+%7C+WMA+Program+%7C+20%2B+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9184A&center=true&vCenter=true&width=640&lines=Hey+there!+I'm+Rahedeen+%F0%9F%91%8B;Frontend+Developer+from+Karachi%2C+%F0%9F%87%B5%F0%9F%87%B0;Building+clean+%26+responsive+web+apps+%E2%9C%A8;Logic+meets+Creativity+%F0%9F%92%A1;SMIT-18+%7C+WMA+Program+%7C+20%2B+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,17 +20,16 @@
 
 ## About Me 🧑‍💻
 
-```javascript
-const rahedeen = {
-  name:       "Rahedeen Siddiqui",
-  location:   "Karachi, Pakistan 🇵🇰",
-  role:       ["Frontend Developer", "Graphic Designer"],
-  training:   "SMIT — Modern Web & Application (WMA), Batch 18",
-  focus:      ["Responsive UI", "Clean Code", "User-Centered Design"],
-  shipped:    "20+ Projects  |  80+ Assignments  |  10+ Live Websites",
-  goal:       "Full Stack Developer 🚀",
-  available:  true, // Open to internships & collaborations!
-  contact:    "sheikhrahedeen@gmail.com",
+```javascript {
+  Name:       "Rahedeen Siddiqui",
+  Location:   "Karachi, Pakistan 🇵🇰",
+  Role:       ["Frontend Developer"],
+  Training:   "SMIT — Modern Web & Application (WMA), Batch 18",
+  Focus:      ["Responsive UI", "Clean Code", "User-Centered Design"],
+  Shipped:    "20+ Projects  |  80+ Assignments  |  10+ Live Websites",
+  Goal:       "Full Stack Developer 🚀",
+  Available:  24/7 on mail and message.
+  Contact:    "rahedeensiddiqui@gmail.com",
 };
 ```
 
@@ -74,9 +73,6 @@ const rahedeen = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahedeen-siddiqui105&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Rahedeen's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahedeen-siddiqui105&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -206,8 +202,8 @@ const rahedeen = {
 🏛️  Saylani Mass IT Training (SMIT) — Paposh Campus, Karachi
     └── Modern Web & Application (WMA) — Batch 18
         September 2024 – Present
-        ├── 🧑‍💻  Frontend Developer (Student)
-        └── 🗂️  Frontend Manager at SMIT Campus
+        ├──  Frontend Developer (Student)
+        
 
 📚  DIL Amina Public Higher Secondary School
     └── Intermediate (ICS) — Computer Science
